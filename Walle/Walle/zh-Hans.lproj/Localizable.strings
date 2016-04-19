@@ -1,0 +1,11 @@
+/* 
+  Localization.strings
+  Walle
+
+  Created by 飞 刘 on 16/4/13.
+  Copyright © 2016年 LeSpeech. All rights reserved.
+*/
+
+"tab_MyChannel" = "我的";
+"tab_Discovery" = "发现";
+"tab_VoiceBox" = "音箱";
